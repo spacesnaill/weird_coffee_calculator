@@ -80,8 +80,8 @@ const FourAndSix = () => {
         </h2>
         <ol>
           <li>
-            Put the filter into the cap. Don't rinse or preheat the brewer (it
-            doesn't make any difference)
+            Put the filter into the cap. Do not rinse or preheat the brewer (it
+            does not make any difference)
           </li>
           <li>Put coffee into the brewer</li>
           <li>
