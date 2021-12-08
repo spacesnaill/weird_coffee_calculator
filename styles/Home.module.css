@@ -140,3 +140,7 @@
     flex-direction: column;
   }
 }
+
+.brewers {
+  list-style-type: none;
+}
